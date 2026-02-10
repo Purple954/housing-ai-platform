@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.git/
+.gitignore
+
+# Data and models are mounted as volumes at runtime
+data/
+models/
+
+# Notebooks and dev files
+notebooks/
+scripts/
+*.md
+*.txt
+!requirements.txt
