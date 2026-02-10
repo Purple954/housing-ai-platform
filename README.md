@@ -1,8 +1,8 @@
 # Housing Retrofit AI Platform
 
+
 An end-to-end data engineering and machine learning platform that analyses UK EPC (Energy Performance Certificate) data to identify properties with the highest retrofit potential — predicting energy efficiency gains, cost savings, and CO2 reductions using a multimodal AI model.
 
-Built as a portfolio project targeting the KTP Associate / Data Engineer role at CARA EPS Limited (University of Salford).
 
 ---
 
